@@ -1,0 +1,15 @@
+﻿https://bmtcmobileapi.karnataka.gov.in/WebAPI/AroundBusStops_v2_Webportal
+https://bmtcmobileapi.karnataka.gov.in/WebAPI/FindNearByBusStop_v2
+https://bmtcmobileapi.karnataka.gov.in/WebAPI/GetAllRouteList
+https://bmtcmobileapi.karnataka.gov.in/WebAPI/GetAllServiceTypes
+https://bmtcmobileapi.karnataka.gov.in/WebAPI/GetHelplineData
+https://bmtcmobileapi.karnataka.gov.in/WebAPI/GetMapConfig
+https://bmtcmobileapi.karnataka.gov.in/WebAPI/GetPathDetails
+https://bmtcmobileapi.karnataka.gov.in/WebAPI/GetTimetableByRouteid_v3
+https://bmtcmobileapi.karnataka.gov.in/WebAPI/GetTimetableByStation_v4
+https://bmtcmobileapi.karnataka.gov.in/WebAPI/getWaypoints_v1
+https://bmtcmobileapi.karnataka.gov.in/WebAPI/ListVehicles
+https://bmtcmobileapi.karnataka.gov.in/WebAPI/RoutePoints
+https://bmtcmobileapi.karnataka.gov.in/WebAPI/SearchByRouteDetails_v4
+https://bmtcmobileapi.karnataka.gov.in/WebAPI/SearchRoute_v2
+https://bmtcmobileapi.karnataka.gov.in/WebAPI/TripPlannerMSMD
